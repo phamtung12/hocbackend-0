@@ -1,0 +1,31 @@
+{
+  "name": "hocbackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --inspect index.js",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phamtung12/hocbackend-0.git"
+  },
+  "keywords": [
+    "hoc",
+    "nodejs",
+    "express"
+  ],
+  "author": "phamtung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phamtung12/hocbackend-0/issues"
+  },
+  "homepage": "https://github.com/phamtung12/hocbackend-0#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
